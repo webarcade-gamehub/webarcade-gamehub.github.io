@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "superwings-colorswitch",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/300.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "moto-race-city",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/301.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "snow-rider-3d-nostalgia",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/302.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "snowflight",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/303.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "pocket-parking",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/304.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fashionista-avatar-studio-dress-up",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/305.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "fashion-world-simulator",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/306.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "omega-layers",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/307.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-flowers",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/308.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "restaurant-vip-masterchef",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/309.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "math-king-math-skill-game",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/310.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "bff-lovely-kawaii-outfits",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/311.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "animal-swipe",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/312.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "lumber-factory-simulator",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/313.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "nuts-bolts-screw-glass",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/314.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "spin-thru",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/315.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "plane-chase",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/316.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "hero-tower-war",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/317.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "teacher-simulator",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/318.webp",
+    "genre": "Quiz, Simulation"
+  },
+  {
+    "id": "robby-the-lava-tsunami",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/319.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "celebrities-get-ready-for-christmas",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/320.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "capybara-block-drop",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/321.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "minetap",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/322.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "popcat-clicker",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/323.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "tapko",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/324.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "room-sort",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/325.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "get-to-the-chopper",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/326.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "javelin-battle",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/327.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "save-my-hero",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/328.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "draw-and-escape",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/329.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "monster-high-spooky-fashion",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/330.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "asmr-beauty-clinic",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/331.webp",
+    "genre": "Care, Dress-up"
+  },
+  {
+    "id": "code-runner-binary-confusion",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/332.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "warfare-1942-online-shooter",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/333.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "magic-bubbles",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/334.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "ultimate-tower-defense",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/335.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "traitor-beaver",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/336.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "snake-go-escape-puzzle",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/337.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "snake-hunter",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/338.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "geometry-vibes-3d",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/339.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "mahjong-match",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/340.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "tiles-of-the-unexpected-2",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/341.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "timewarriors",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/342.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mk48-io",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/343.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "nuts-bolts-sort-color-puzzle",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/344.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "labubu-and-treasures-fun-adventure",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/345.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "fortunes-deck-solitaire",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/346.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "paint-roller",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/347.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "slenderman-back-to-school",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/348.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "algerian-solitaire",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/349.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "race-clicker",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/350.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "void-orbit",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/351.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "mini-springs",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/352.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "merge-heroes-titans",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/353.webp",
+    "genre": "Battle, Merge"
+  },
+  {
+    "id": "tricky-challenges-mini-games",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/354.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stickman-rocket",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/355.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "winter-maze",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/356.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "2048-run-gorgeous-balls",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/357.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "amazing-airplane-racer",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/358.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "sort-game-toy-sort",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/359.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "wood-block-puzzle-3",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/360.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tile-match-connect-3-tiles",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/361.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "trolley-fun",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/362.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "princess-vs-shark",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/363.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "oil-tanker-transport-truck",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/364.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "rush-car-driving-race-master",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/365.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "count-and-bounce",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/366.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "clinic-cleanup-crew",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/367.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "mahjong-zen-garden",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/368.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "galaxy-control-3d-strategy",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/369.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "princess-rescue-fruit-connect",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/370.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "dynamons-8",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/371.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "online-car-destruction-simulator-3d",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/372.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "my-little-car-wash",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/373.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "driver-master-simulator",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/374.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "capybara-suika",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/375.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "no-pain-no-gain-ragdoll-sandbox",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/376.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "fashionista-christmas-eve-party",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/377.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "zombie-monster-survivors",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/378.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "planet-demolish",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/379.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "gothic-knife",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/380.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "happy-color",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/381.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "super-tank-wrestle",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/382.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "badland",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/383.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "vega-mix-fairy-town",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/384.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "crazy-bus-station",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/385.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pet-runner",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/386.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "circuit-master",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/387.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "happy-jump",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/388.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "puzzle-about-orange",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/389.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "monster-school-2",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/390.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "dragon-hunter",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/391.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "flower-block",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/392.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "paw-clash",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/393.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "komaru-cat",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/394.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "merge-hospital",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/395.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "swordsman-adventure",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/396.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "sword-life",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/397.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cube-king",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/398.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "level-up-mutants",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/399.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "sky-maze-challenge",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/400.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "grindcraft",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/401.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "card-clash-battle-arena",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/402.webp",
+    "genre": "Battle, Cards"
+  },
+  {
+    "id": "math-quest",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/403.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "car-dealer-idle",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/404.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "merge-hotel-dev",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/405.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "strawberry-shortcake",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/406.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "space-craft-ship-war",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/407.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "merge-tower-hero",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/408.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "guess-word",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/409.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pictures-riddle",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/410.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "bloom-sort-2-bee-puzzle",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/411.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "true-love-calculator-nzw",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/412.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "draw-to-crush-monster-game",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/413.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mega-jump",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/414.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "battle-for-the-galaxy",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/415.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fruit-merge-juicy-drop-game",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/416.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "solitaire-lamour",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/417.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "pop-culture-halloween-makeup",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/418.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "flower-shop",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/419.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "meow-market",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/420.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "digital-circus-io",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/421.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "annas-story-dress-up-diy",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/422.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "cyberpunk-city-fashion",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/423.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "zombie-frontier-shooter",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/424.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "farm-animal-sort-puzzle",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/425.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bubble-shooter-temple-jewels",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/426.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "cuphead",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/427.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dungeons-n-ducks",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/428.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "build-and-run",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/429.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "roller-coaster-3d",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/430.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fashion-battle-for-survival",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/431.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "fishing-baron-real-fishing",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/432.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "liquid-sort-deluxe",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/433.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "run-from-baba-yaga",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/434.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "break-a-lucky-block",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/435.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "roblox-craft-run",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/436.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "bubble-plopper",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/437.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "kick-loser",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/438.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "incredible-princesses-and-villains-puzzle",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/439.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "dr-parking",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/440.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "hidden-mushrooms",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/441.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "snake-puzzle-escape",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/442.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "domino-adventure",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/443.webp",
+    "genre": "Boardgames, Casual"
+  },
+  {
+    "id": "hide-and-seek-blue-monster",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/444.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "merge-magnat-ideal-store",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/445.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "block-cut-cleaner",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/446.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "clean-house-clearing-trash-and-dirt",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/447.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "snowboard-game-party",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/448.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "formula-racing-games-car-game",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/449.webp",
+    "genre": "Sports, .IO"
+  },
+  {
+    "id": "drive-to-survive",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/450.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "hill-climbing-mania",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/451.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "zombie-driver",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/452.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "skribblio",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/453.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sweet-haunt-2",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/454.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "words-with-owl",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/455.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "horror-school-detective-story",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/456.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tic-tac-toe-merge",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/457.webp",
+    "genre": "Boardgames, Merge"
+  },
+  {
+    "id": "cat-pancake-diner",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/458.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "fish-land-fish-world",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/459.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "meme-wars",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/460.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "tow-n-go",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/461.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "dollys-restaurant-organizing",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/462.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "garage-master-nuts-and-bolts",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/463.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "potion-merge-witch",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/464.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "poptropica",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/465.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "duck-luck",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/466.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "gym-simulator-tycoon",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/467.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "bowmasters",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/468.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "diy-makeup-salon-spa-makeover-studio",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/469.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "little-bugs",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/470.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "police-chase-drifter",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/471.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "cargo-path-puzzle",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/472.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "mole-dig-clicker",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/473.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "backrooms-skibidi-terrors",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/474.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "archery-master",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/475.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "city-drift-racing",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/476.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "duet-cats-halloween-cat-music",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/477.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "blocks-and-thats-it",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/478.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "magic-finger-puzzle-3d",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/479.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "shell-strikers",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/480.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "gluttony",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/481.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "catch-the-goose",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/482.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "noobhood-halloweencraft",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/483.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "fruitsland-escape-from-the-amusement-park",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/484.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "12-minute-escape",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/485.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "passenger-sort",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/486.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "toy-claw-simulator",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/487.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "bubble-shooter-spinner-pop",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/488.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "slithercraft-io",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/489.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "emoji-merge-fun-moji",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/490.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "stick-hero-fight",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/491.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "downtown-parkour-drive",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/492.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "pet-me-maze",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/493.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ultimate-destruction-simulator",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/494.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "bublix-bubble-hit",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/495.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "big-bad-ape",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/496.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bubble-mania-shooter",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/497.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "thread-match-2",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/498.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "blue-vs-red",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/499.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "count-master-match-color-run",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/500.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "bubble-classic",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/501.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "racing-ball-adventure",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/502.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "merge-sesame",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/503.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "daily-solitaire-mahjong-classic",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/504.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "ugc-math-race",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/505.webp",
+    "genre": ".IO, Educational"
+  },
+  {
+    "id": "new-year-s-eve-makeup",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/506.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "going-balls-3d",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/507.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "air-block",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/508.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "number-tubes",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/509.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "daddy-cactus",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/510.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "merge-lagoon",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/511.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "block-parkour-trials",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/512.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "gangsta-duel",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/513.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "max-speed",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/514.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "meow-slide",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/515.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sausage-flip-free",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/516.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "lovie-chics-coachella-festival",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/517.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "battle-racing-stars",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/518.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "nutcracker-new-years-adventures",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/519.webp",
+    "genre": "Art, Dress-up"
+  },
+  {
+    "id": "jab-jab-boxing",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/520.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "obby-pump-up-your-muscles-1-per-second",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/521.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "garden-tales-mahjong-2",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/522.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "football-duel",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/523.webp",
+    "genre": "Football, Simulation"
+  },
+  {
+    "id": "capybara-screw-jam",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/524.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "neon-dash-cyber-run",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/525.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "bubble-blitz-galaxy",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/526.webp",
+    "genre": "Bubble Shooter, Match-3"
+  },
+  {
+    "id": "tiny-golf-king",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/527.webp",
+    "genre": "Sports, Agility"
+  },
+  {
+    "id": "evermatch",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/528.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "crowd-clash-rush",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/529.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "style-icons-2024-rewind-edition",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/530.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "two-blocks",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/531.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "domino-smash-3d",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/532.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mahjong-build-farm",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/533.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "bunnyhop-and-surf-maps",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/534.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "magic-tiles-3",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/535.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "kings-and-queens-match-2",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/536.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "hidden-objects-crime-scene",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/537.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "nubik-create-your-place",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/538.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "bffs-y2k-fashion",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/539.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "super-racing-gt-drag-pro",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/540.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "robbie-stand-on-the-right-color",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/541.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "neon-blast",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/542.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "star-wing",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/543.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "crash-the-robot",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/544.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "clash-of-stone",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/545.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "mahjong-tile-club",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/546.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "heroic-knight",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/547.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "magic-christmas-tree-match-3",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/548.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "little-candy-bakery",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/549.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "warcall-io",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/550.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "last-ufo-defense",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/551.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "dinosaur-cards",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/552.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "antistress-simulator-of-sequins-diy",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/553.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "mahjong-garden",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/554.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "tank-wars-iaw",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/555.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "buckshot-roulette",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/556.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "idle-miner",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/557.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "colors-runners",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/558.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "car-park-simulator",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/559.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "woolloop-color-puzzle",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/560.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cat-evolution",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/561.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "billythebox",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/562.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "ball-paint-3d",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/563.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "drop-kick-world-cup-2018",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/564.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "food-truck-chef",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/565.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "key-quest",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/566.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "travel-with-me-asmr-edition",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/567.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "retro-street-fighter",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/568.webp",
+    "genre": "Agility, Battle"
+  },
+  {
+    "id": "mr-bullet-stealth-ninja-killstreak",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/569.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "memevoio",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/570.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "caterfall-2048",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/571.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "cat-rescue",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/572.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "okay",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/573.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "domino-online-multiplayer",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/574.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "hand-over-hand",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/575.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "save-her-tour",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/576.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "remove-the-evidence",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/577.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mahjong-at-home-scandinavian-edition",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/578.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "hotfoot-baseball",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/579.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "through-the-wall",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/580.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "geometry-rush",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/581.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "war-of-gun",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/582.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "2048-match-balls",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/583.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "drill-quest",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/584.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "tanks-merge-tank-war-blitz",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/585.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "monster-squad-rush",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/586.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "knots",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/587.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ultimate-plants-td",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/588.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "frogtastic-marble-adventure",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/589.webp",
+    "genre": "Bubble Shooter, Match-3"
+  },
+  {
+    "id": "darts-jam",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/590.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "head-jump",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/591.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "office-pyramid-solitaire",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/592.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "extreme-real-car-driving-2025",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/593.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "breakthrough-team",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/594.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "the-white-room-5",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/595.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "outside",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/596.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "sniper-for-brainrot",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/597.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "the-survey",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/598.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "freecell",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/599.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "red-light-green-light",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/600.webp",
+    "genre": "Agility, Simulation"
+  },
+  {
+    "id": "golf-orbit",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/601.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "guivoio",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/602.webp",
+    "genre": ".IO, Match-3"
+  },
+  {
+    "id": "mahjong-crimes-puzzle-story",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/603.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "pet-merge",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/604.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "number-domination",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/605.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "shot-can-wild",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/606.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "mahjong-sort-puzzle",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/607.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "zooma-dragon",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/608.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "traffic-jam-hop-on",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/609.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bubble-shooter-hawaii",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/610.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "witchy-sisters-relax-puzzle",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/611.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "castle-craft",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/612.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "muscle-up-master",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/613.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "idle-dairy-farm-tycoon",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/614.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "wipe-insight-master",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/615.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "craft-drill",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/616.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "cute-kitty-merge",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/617.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "samurai-vs-yakuza-beat-em-up",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/618.webp",
+    "genre": "Adventure, Sports"
+  },
+  {
+    "id": "hyper-nurse-hospital-games",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/619.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "wave-chic-ocean-fashion-frenzy",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/620.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "world-cup-soccer-caps",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/621.webp",
+    "genre": "Football, Casual"
+  },
+  {
+    "id": "atlantic-sky-hunter-xtreme",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/622.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "superpixelint",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/623.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "drawer-sort",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/624.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "cube-speed-dash",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/625.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "foono-online-multiplayer-card-game",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/626.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ninja-spell-match",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/627.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "car-mechanic-simulator-2025",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/628.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "slide-block-puzzle",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/629.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "brainrot-world-holeio",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/630.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "number-merge-10",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/631.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "crazyzombies-3d",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/632.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "teacher-simulator-christmas-exam",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/633.webp",
+    "genre": "Quiz, Simulation"
+  },
+  {
+    "id": "mega-makeup-seasons-best",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/634.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "liquids-sort-puzzle",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/635.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "zombie-highway-rampage",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/636.webp",
+    "genre": "Racing & Driving, Shooter"
+  },
+  {
+    "id": "rift-of-hell-demons-war",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/637.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "easter-eggventure",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/638.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "kaboom-miner",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/639.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "biking-extreme-3d",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/640.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "dark-academia-wedding",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/641.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "wonders-of-egypt-match-2",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/642.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "fox-adventure",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/643.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "huggy-wuggy-guess-the-right-door",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/644.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "classic-mahjong",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/645.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "stunt-fury",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/646.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "twinkle-shooter",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/647.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "idle-lawnmower",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/648.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hidden-object-rooms-exploration",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/649.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "mr-long-legs",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/650.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "headless-joe",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/651.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ping-pong-air",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/652.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "make-ten-tiles",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/653.webp",
+    "genre": "Educational, Merge"
+  },
+  {
+    "id": "treasure-champion-chest-capture",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/654.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "save-the-beauty",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/655.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "supermarket-sort-n-match",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/656.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "spellmind",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/657.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "holiday-hex-sort",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/658.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fast-lap",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/659.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "cute-coloring-games",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/660.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "zoo-restaurant",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/661.webp",
+    "genre": "Cooking, Merge"
+  },
+  {
+    "id": "monster-school-challenge",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/662.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "geometry-vertical",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/663.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "chaos-road-combat-car-racing",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/664.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "angry-chibi-run",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/665.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "echolocation-shooter",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/666.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "nubik-in-the-monster-world",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/667.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "find-the-vampire",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/668.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "italian-brainrot-jigsaw",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/669.webp",
+    "genre": "Jigsaw"
+  },
+  {
+    "id": "toca-teens-floating-beach-party",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/670.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "nekos-adventure",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/671.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "max-crusher-2-destruction-drift-and-racing",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/672.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "wednesday-addams-beauty-salon",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/673.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "magic-piano-music",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/674.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "run-3d",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/675.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "hide-and-luig",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/676.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "enchanted-easter-adventure",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/677.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "sticker-puzzle-book",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/678.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "missile-launch-master",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/679.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "kingdom-wars-td",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/680.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "skibidi-survivor-rush",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/681.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "ice-cream-fever-cooking-game",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/682.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "italian-brainrot-tung-tung-racing",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/683.webp",
+    "genre": "Racing & Driving, Sports"
+  },
+  {
+    "id": "wood-nuts-master-screw-puzzle",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/684.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "br-br-patapim-obby-challenge",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/685.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "tap-it-away-3d",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/686.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mergest-kingdom",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/687.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "doors-awakening",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/688.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "stickman-football",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/689.webp",
+    "genre": "Football, Agility"
+  },
+  {
+    "id": "two-supra-drifters",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/690.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "princesses-of-quadrobics",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/691.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "block-digger",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/692.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "pet-tile-master",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/693.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "puzzle-trails",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/694.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "spelunking",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/695.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "arrow-escape-puzzle",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/696.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cube-connect",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/697.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ace-car-racing",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/698.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "home-island",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/699.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "giant-wanted-monster",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/700.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "basket-shot",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/701.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "pet-salon-simulator",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/702.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "stickman-ragdoll-playground",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/703.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "brain-draw-line",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/704.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "back-2-school-makeover",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/705.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "brilliant-jewels",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/706.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "sticker-jam-peel-off-match",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/707.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "asmr-beauty-treatment",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/708.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "crazy-tunnel",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/709.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "cleaning-simulator",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/710.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "qube-2048",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/711.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "dreamy-jewel",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/712.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "jennys-math-puzzle",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/713.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "fish-sort",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/714.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "grukkle-onslaught",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/715.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "dark-stones-card-battle-rpg",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/716.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "black-cat-stacking-pop",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/717.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cornhole-league-board-games",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/718.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "dead-brain",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/719.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "world-flags-trivia",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/720.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "dop-draw-one-part",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/721.webp",
+    "genre": "Art"
+  },
+  {
+    "id": "magic-flow",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/722.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "arrow-survival-15-seconds",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/723.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "greedy-snake-brain-hole-explosion",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/724.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "tung-tung-sahur-coloring-book",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/725.webp",
+    "genre": "Agility, Art"
+  },
+  {
+    "id": "cargo-skates",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/726.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "math-crossword-puzzle-genius-edition",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/727.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "ball-rolling-slope",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/728.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "bubble-pop-fairyland",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/729.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "wave-dash-geometry-arrow",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/730.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "cryptograph",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/731.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "christmas-merge",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/732.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "real-car-parking-simulator",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/733.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "mate-in-chess",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/734.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "single-line-puzzle-drawing",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/735.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "animal-link",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/736.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "draw-a-path-to-the-finish-line",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/737.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "flower-fairy-adventure-story",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/738.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "little-dentist-dash",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/739.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "thrill-roller-coaster",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/740.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "cube-to-hole-puzzle",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/741.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "color-3d-bump-it-up",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/742.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "tower-of-fall",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/743.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "chill-clicker",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/744.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "tower-crush",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/745.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "secret-galaxy-match-three",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/746.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "cars-merge",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/747.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fall-bean-2",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/748.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "block-master-super-puzzle",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/749.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tralala-la-la-la-italiano",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/750.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cake-link-master",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/751.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "football-penalty",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/752.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "scooter-touchgrind-tricks-3d",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/753.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "batzo-runner",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/754.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "flip-it-3d",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/755.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tropical-cubes-2048",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/756.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "grill-it-all",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/757.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "serious-bro",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/758.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "stealth-master-sneak-cat",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/759.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "ammo-rush-master",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/760.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "paws-pals-diner",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/761.webp",
+    "genre": "Cooking, Casual"
+  },
+  {
+    "id": "striped-fruit-watermelon-land",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/762.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "from-nerd-to-popular-ballerina-cappuccina",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/763.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "genfire",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/764.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "untwist-road",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/765.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "animal-basketball",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/766.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "brain-test-iq-challenge-2",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/767.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fish-master-go-fish",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/768.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "spot-differences-bird-adventure",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/769.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "radiant-rush",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/770.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "bobb-s-world",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/771.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cap",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/772.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "uno-online",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/773.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "trial-xtreme",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/774.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "human-evolution-run",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/775.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "conduct-this",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/776.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "number-master",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/777.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bubble-shooter-wonders-of-egypt",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/778.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "fish-love-pins",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/779.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "slingshot-chicken",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/780.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "christmas-snowball-arena",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/781.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "heroes-of-match-3",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/782.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "paint-sponges-puzzle",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/783.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "papa-buzja",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/784.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "makeup-studio-glam-diva",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/785.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "real-gt-racing-simulator",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/786.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "squad-assembler",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/787.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "bffs-luxury-loungewear",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/788.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "winter-solitaire-tripeaks",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/789.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "cyberpunk-city-hairstyles",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/790.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "push-them",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/791.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "frogga",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/792.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "elementz",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/793.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "powerful-punch",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/794.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "balloon-match-3d",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/795.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "stickholeio",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/796.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "3d-basketballio-dunk-sport",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/797.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "epic-hero-quest-idle-rpg",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/798.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "underwater-survival",
+    "thumbnail": "https://webarcade-gamehub.github.io/images/799.webp",
+    "genre": "Adventure, Simulation"
+  }
+]
